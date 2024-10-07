@@ -2,312 +2,342 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/aws/karpenter/v1alpha1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/aws/karpenter/v1alpha1/awsNodeTemplate/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/sh/karpenter/v1alpha5/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.27/sh/karpenter/v1alpha5/provisioner/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/karpenter/v1alpha1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/karpenter/v1alpha1/awsNodeTemplate/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/aws/karpenter/v1beta1/ec2NodeClass/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/v1alpha5/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/v1alpha5/provisioner/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/v1beta1/nodeClaim/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.31/sh/karpenter/v1beta1/nodePool/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/karpenter/v1alpha1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/karpenter/v1alpha1/awsNodeTemplate/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/aws/karpenter/v1beta1/ec2NodeClass/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/v1alpha5/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/v1alpha5/provisioner/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/v1beta1/nodeClaim/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.32/sh/karpenter/v1beta1/nodePool/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/aws/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/aws/karpenter/v1beta1/ec2NodeClass/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/sh/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/sh/karpenter/v1beta1/nodeClaim/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.33/sh/karpenter/v1beta1/nodePool/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/aws/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/aws/karpenter/v1beta1/ec2NodeClass/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/sh/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/sh/karpenter/v1beta1/nodeClaim/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.34/sh/karpenter/v1beta1/nodePool/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/aws/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/aws/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/aws/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/aws/karpenter/v1beta1/ec2NodeClass/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/sh/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/sh/karpenter/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/sh/karpenter/v1beta1/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/sh/karpenter/v1beta1/nodeClaim/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
     </url>
     <url>
          <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.35/sh/karpenter/v1beta1/nodePool/</loc>
-         <lastmod>2024-05-14</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/aws/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/aws/karpenter/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/aws/karpenter/v1beta1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/aws/karpenter/v1beta1/ec2NodeClass/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/sh/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/sh/karpenter/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/sh/karpenter/v1beta1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/sh/karpenter/v1beta1/nodeClaim/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/0.37/sh/karpenter/v1beta1/nodePool/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/karpenter/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/karpenter/v1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/karpenter/v1/ec2NodeClass/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/karpenter/v1beta1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/aws/karpenter/v1beta1/ec2NodeClass/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1/nodeClaim/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1/nodePool/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1beta1/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1beta1/nodeClaim/</loc>
+         <lastmod>2024-10-07</lastmod>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/karpenter-libsonnet/1.0/sh/karpenter/v1beta1/nodePool/</loc>
+         <lastmod>2024-10-07</lastmod>
     </url>
 </urlset>
