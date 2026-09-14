@@ -10,6 +10,7 @@ This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 - [0.35/aws](0.35/aws/README.md)
 - [0.37/aws](0.37/aws/README.md)
 - [1.0/aws](1.0/aws/README.md)
+- [1.13/aws](1.13/aws/README.md)
 - [0.27/sh](0.27/sh/README.md)
 - [0.31/sh](0.31/sh/README.md)
 - [0.32/sh](0.32/sh/README.md)
@@ -18,3 +19,4 @@ This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 - [0.35/sh](0.35/sh/README.md)
 - [0.37/sh](0.37/sh/README.md)
 - [1.0/sh](1.0/sh/README.md)
+- [1.13/sh](1.13/sh/README.md)
